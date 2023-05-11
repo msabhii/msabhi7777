@@ -1,6 +1,9 @@
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width ="480" src="https://www.bing.com/images/search?view=detailV2&ccid=M84SX9TY&id=0CE1F95EB9E4538722847143704B1F9867E757A0&thid=OIP.M84SX9TY0umXD0zzNdoLUQHaFj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f552%2f1*vJjJ3Mdok6Rvxx85IIRqBQ.gif&exph=600&expw=800&q=animated+coding+gif&simid=608027512589721007&FORM=IRPRST&ck=D15C966FFE7F4729FBD2819578E8DA42&selectedIndex=60&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabhi7777&label=Profile%20views&color=0e75b6&style=flat" alt="msabhi7777" /> </p>
 
@@ -10,8 +13,11 @@
 
 - 📫 How to reach me **msabhithakur@7777gmail.com**
 
+- ⚡ Fun fact **I think I am a Good programer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abhishek thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/msabhii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msabhii" height="30" width="40" /></a>
 </p>
 
